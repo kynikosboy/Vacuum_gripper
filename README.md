@@ -3,6 +3,9 @@
 
 
 ## Notes
+· vacuum_gripper -> catkin_ws/src
+· vacuum_gripper_code_for_arduino_upload -> any directory (not for catkin_ws!)
+
 
 · This is a package for vacuum gripper using Arduino-based vacuum pumps and electronic valves.
 
