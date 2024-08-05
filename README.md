@@ -4,6 +4,7 @@
 
 ## Notes
 · vacuum_gripper -> catkin_ws/src
+
 · vacuum_gripper_code_for_arduino_upload -> any directory (not for catkin_ws!)
 
 
