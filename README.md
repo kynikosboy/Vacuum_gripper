@@ -60,6 +60,7 @@ In a second terminal, run the ROS serial node:
 ```sh
 rosrun rosserial_python serial_node.py _port:=/dev/ttyUSB1 _baud:=57600
 ```
+* name of port could be different. (ex. ttyUSB0, ttyUSB1, ttyACM0,ttyACM1...)
 
 ### 3. Run the Vacuum Gripper Control
 In a third terminal, run the vacuum gripper control script:
